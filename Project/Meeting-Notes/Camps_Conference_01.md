@@ -49,6 +49,37 @@ This is captured in the comparison index from Fig 2.
 Difference b/w mutant and rest of pop. fo rthe nuc profile.
 
 (6:15)
+Figure 3 clarifications.
+Changes from before and after treatment, or more generally, time 1 and time 2.
+Some patients not treated.
+Shows how the virus changes even w/o treatment.
+
+(7:00)
+Resistance caused by individual mutations.
+K70R is known to cuase resistance.
+Does the profile of nuc sub look diff from sequences that have that mutation or not.
+__Is K70R a single point substitution?__
+Figure 3.
+
+(7:50)
+AA substitutions - codon changing to a diff codon at a given position.
+Nuc substituions, regardless of codon effects.
+Here, it's the same target.
+Mutaant and sequence that we're looking for mutations in is the same.
+
+(9:00)
+E. coli example to further explain why this recursion is not the typical look at things.
+
+(9:50)
+In HIV, it's a much smaller genome.
+The sequences that we have are all from the polymerase itself.
+We're looking at for a given mutant polymerase, such as K70R, we're looking the profile of random mutation that happen in the genome, but the genome is the polymerase itself.
+
+(10:40)
+
+
+
+
 
 
 
